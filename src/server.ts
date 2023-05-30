@@ -4,7 +4,7 @@ import config from './config/index'
 
 async function bootstrap() {
   try {
-    await mongoose.connect('mongodb://127.0.0.1:27017/test')
+    await mongoose.connect(config.database_url as string)
     console.log('😍 Database connected successfully ')
     app.listen(config.port, () => {
       console.log(`University app listening on port ${config.port}`)

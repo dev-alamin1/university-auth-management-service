@@ -11,7 +11,7 @@
     "lint:fix": "eslint . --fix",
     "prettier:fix": "prettier --write .",
     "lint-prettier": "yarn lint:check&&yarn prettier:check"
-  }, 
+  },
   "author": "Md.Al-amin Mondal",
   "license": "ISC",
   "dependencies": {
