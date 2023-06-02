@@ -1,4 +1,4 @@
-import { createLogger, format, transports } from 'winston'
+import { createLogger, format } from 'winston'
 const { combine, timestamp, label, printf, prettyPrint } = format
 import DailyRotateFile from 'winston-daily-rotate-file' //library for manage log
 
@@ -24,7 +24,7 @@ const logger = createLogger({
   defaultMeta: { service: 'user-service' },
 
   transports: [
-    new transports.Console(),
+    // new transports.Console(),
     //custom management of log
     new DailyRotateFile({
       filename: path.join(
@@ -48,7 +48,7 @@ const errorLogger = createLogger({
   defaultMeta: { service: 'user-service' },
 
   transports: [
-    new transports.Console(),
+    // new transports.Console(),
 
     new DailyRotateFile({
       filename: path.join(

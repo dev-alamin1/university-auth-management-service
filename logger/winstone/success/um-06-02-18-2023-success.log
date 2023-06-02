@@ -1,0 +1,238 @@
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:04:02.430Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:04:02.448Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:04:37.515Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:04:37.542Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:04:46.953Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:04:46.984Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:08:55.077Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:08:55.109Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:25:57.185Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:25:57.221Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:26:02.800Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:26:02.830Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:26:55.136Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:26:55.150Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:27:15.167Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:27:15.181Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:32:37.725Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:32:37.748Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:32:55.147Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:32:55.157Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:35:30.888Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:35:30.908Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:36:44.515Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:36:44.530Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:37:12.044Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:37:12.067Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:39:13.834Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:39:13.870Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:46:52.065Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:46:52.084Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:47:07.096Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:47:07.108Z'
+}
+{
+  message: '😍 Database connected successfully ',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:48:20.477Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-06-02T12:48:20.505Z'
+}

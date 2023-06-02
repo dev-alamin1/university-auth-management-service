@@ -14,6 +14,31 @@
             "date": 1685678415660,
             "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-10-2023-error.log",
             "hash": "f713efc52af2b19c17b3c9f03e75b48a70b378e5f5a4618a7651819c88faad89"
+        },
+        {
+            "date": 1685685073618,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-11-2023-error.log",
+            "hash": "ef72a6e5a3cd860e86050c17dfc177b62ed03ecf60d7f4937d3af68c576aec21"
+        },
+        {
+            "date": 1685685728260,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-12-2023-error.log",
+            "hash": "cd71dbc296ccde45c3dab2d38e2ce5433cfe88d799152535f1c908364e4eeed5"
+        },
+        {
+            "date": 1685699089134,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-15-2023-error.log",
+            "hash": "fa836226f55f8ae3f7492c07701154857264c081671ad59ad3f5499fe603aa1e"
+        },
+        {
+            "date": 1685700049411,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-16-2023-error.log",
+            "hash": "d888906d82cbdeec300891b5c2b3bff2633ab2b9ccf837efcf3dc85a2045b47e"
+        },
+        {
+            "date": 1685707435948,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-18-2023-error.log",
+            "hash": "8f6f6bc8298fab0d34b2af02af29d6154c831f52628102464084f1d3db3921b2"
         }
     ],
     "hashType": "sha256"
