@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\.6758b139e69f15fd99a51d0807814eec22d53481-audit.json",
+    "files": [
+        {
+            "date": 1685678186442,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-09-2023-error.log",
+            "hash": "ca4546edfa1b202fc90c6bb66bef02c738f5462480ac837c00fc45418e28e68b"
+        },
+        {
+            "date": 1685678415660,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\errors\\um-06-02-10-2023-error.log",
+            "hash": "f713efc52af2b19c17b3c9f03e75b48a70b378e5f5a4618a7651819c88faad89"
+        }
+    ],
+    "hashType": "sha256"
+}
