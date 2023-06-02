@@ -6,39 +6,14 @@
     "auditLog": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\.6c445a28ae69c5ab944689cf400a509ff5efa208-audit.json",
     "files": [
         {
-            "date": 1685678376163,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-09-2023-success.log",
-            "hash": "b28704a4b6b8942b5a0cb004cd0f51479b8b2292cd68fc8171996c3c33c54afc"
+            "date": 1685711173142,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-19-2023-success.log",
+            "hash": "23887e8a9735e5cb3f5c147b61e449147d2bd5a13cb941bd8d70a7927f42248d"
         },
         {
-            "date": 1685678415652,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-10-2023-success.log",
-            "hash": "0481302ec7034889bba20da31fb90a1cc219a0d3854a53ea4b8c05251714c688"
-        },
-        {
-            "date": 1685685073571,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-11-2023-success.log",
-            "hash": "ee03edda5656087aea1eed14944adafbe735d29652b4090ff87c88e766959697"
-        },
-        {
-            "date": 1685685728252,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-12-2023-success.log",
-            "hash": "b3be4cc4c0936a272b5ab4af14fa19d82524a51c463d8b3900da48c5cea95b2b"
-        },
-        {
-            "date": 1685699089113,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-15-2023-success.log",
-            "hash": "b42852d73f62cc97f8d1713a124d714bc8d800e696ccbbf007e71aba5cf4340e"
-        },
-        {
-            "date": 1685700049396,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-16-2023-success.log",
-            "hash": "9e942583ea51eee86d85ba00ba4b3f5230f37d816857cf43e6480c69a11c6813"
-        },
-        {
-            "date": 1685707435911,
-            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-18-2023-success.log",
-            "hash": "39271b5bac2c654fe6988deead06108468a30f217059b1badbf6acb1e762c397"
+            "date": 1685714535225,
+            "name": "F:\\LEVEL-2-WEB\\university-auth-management-service\\logger\\winstone\\success\\um-06-02-20-2023-success.log",
+            "hash": "e01c6d8b27959e6b34816445e63ed178ee1ad925b50b742b3fbff22b02e9f6a3"
         }
     ],
     "hashType": "sha256"

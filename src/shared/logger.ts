@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { createLogger, format } from 'winston'
 const { combine, timestamp, label, printf, prettyPrint } = format
 import DailyRotateFile from 'winston-daily-rotate-file' //library for manage log
