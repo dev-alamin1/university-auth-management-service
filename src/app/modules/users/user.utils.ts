@@ -1,4 +1,4 @@
-import User from './users.model'
+import User from './user.model'
 
 // it use for get last user id
 const userLastId = async () => {

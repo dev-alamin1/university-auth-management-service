@@ -1,7 +1,8 @@
 import express, { Application } from 'express'
 import cors from 'cors'
-import router from './app/modules/users/users.route'
+import { UserRoutes } from './app/modules/users/user.route'
 import globalErrorHandler from './app/middleware/globalErrorHandler'
+
 const app: Application = express()
 
 // cors
@@ -11,7 +12,7 @@ app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
-app.use('/app/v1', router)
+app.use('/app/v1', UserRoutes)
 
 // jodi amra custom error message and status code change kore dekhate chai ,
 // tahole Error class ke extend kore korte pari
@@ -21,8 +22,8 @@ app.use('/app/v1', router)
 // })
 
 // app.get('/',(req:Request,res:Response,next:NextFunction)=>{
-//     // throw new Error("nice, try to find erro")
-//     next("Find the bug")
+//     throw new ApiError(400,"Error happen")
+//     // next("Find the bug")
 // })
 
 // //global error handeling
